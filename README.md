@@ -24,7 +24,7 @@ Electromagnetic Generators (EMG), Dielectric Elastomer Generators (DEG), and Hyb
 
 Intermittent Computing: This method aims to tolerate power failures from inconsistent energy sources like tides, resuming work when energy returns. It is ideal for batteryless IoT devices that can be made in smaller parts to execute tasks efficiently even when power is intermittent.
 
-🇮🇳 Focus on India's Potential With a long coastline stretching 7500 km, India has enormous potential for ocean energy harvesting. The Ministry of New and Renewable Energy (MNRE) has identified considerable ocean energy potential across the Arabian Sea, Indian Ocean, and the Bay of Bengal.
+🇮🇳 Focus on India's Potential with a long coastline stretching 7500 km, India has enormous potential for ocean energy harvesting. The Ministry of New and Renewable Energy (MNRE) has identified considerable ocean energy potential across the Arabian Sea, the Indian Ocean, and the Bay of Bengal.
 
 ✍️ Authors:
 
